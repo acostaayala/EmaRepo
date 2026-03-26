@@ -49,11 +49,11 @@ const AppShowcase = () => {
         <div className="showcaselayout">
           <div ref={rydeRef} className="first-project-wrapper">
             <div className="image-wrapper">
-              <img src="/public/images/aboutme3.jpg" alt="About Me Image"/>
+              <img src="/images/aboutme3.jpg" alt="About Me Image" />
             </div>
             <div className="text-content">
               <h2>
-                
+                TEST
                 
               </h2>
               <p className="text-white-50 md:text-xl">
