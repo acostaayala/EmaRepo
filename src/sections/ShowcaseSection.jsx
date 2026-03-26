@@ -49,7 +49,7 @@ const AppShowcase = () => {
         <div className="showcaselayout">
           <div ref={rydeRef} className="first-project-wrapper">
             <div className="image-wrapper">
-              <img src="public/images/aboutme3.jpg" alt="Ryde App Interface" />
+              <img src="public/images/aboutme2.jpg" alt="Ryde App Interface" />
             </div>
             <div className="text-content">
               <h2>
