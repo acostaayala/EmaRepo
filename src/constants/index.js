@@ -177,11 +177,11 @@ const expCards = [
     imgPath: "/images/exp3.png",
     logoPath: "/images/logo3.png",
     title: "Customer Service Representative",
-    date: "March 2019 - May 2020",
+    date: "November 2023 - Present",
     responsibilities: [
-      "Delivered personalized financial solutions to clients, tailoring recommendations to their unique needs and goals.",
-      "Efficiently managed customer inquiries and resolved complex issues, consistently achieving high satisfaction ratings.",
-      "Collaborated with internal teams to streamline processes and ensure secure, high-quality service delivery.",
+      "Handled high-volume financial transactions including check cashing, bill payments, money orders, and wire transfers with accuracy and efficiency.",
+      "Verified customer identification, reviewed checks for authenticity, and ensured compliance with company policies and financial regulations to prevent fraud and minimize risk.",
+      "Maintained balanced cash drawers, processed daily transactions, and provided prompt customer support while addressing inquiries related to services, fees, and account setup.",
     ]    
   },
 ];
