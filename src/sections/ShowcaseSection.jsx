@@ -53,7 +53,7 @@ const AppShowcase = () => {
             </div>
             <div className="text-content">
               <h2>
-                TEST 1
+                HI!
                 
               </h2>
               <p className="text-white-50 md:text-xl">
