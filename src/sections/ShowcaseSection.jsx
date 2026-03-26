@@ -53,12 +53,19 @@ const AppShowcase = () => {
             </div>
             <div className="text-content">
               <h2>
-                On-Demand Rides Made Simple with a Powerful, User-Friendly App
-                called Ryde
+                About Me
+                
               </h2>
               <p className="text-white-50 md:text-xl">
-                An app built with React Native, Expo, & TailwindCSS for a fast,
-                user-friendly experience.
+                Bilingual customer service and administrative professional with over three years of 
+                experience supporting clients and managing information with accuracy and professionalism. 
+                I bring strong technical skills, including excellent computer proficiency and the ability 
+                to adapt quickly to new systems and digital tools. Known for providing clear, reliable, and 
+                friendly support, I focus on delivering high-quality service, resolving client needs 
+                efficiently, and maintaining organization in fast-paced environments. I am committed to 
+                continuous learning, process improvement, and building trust through consistent and 
+                professional communication.
+
               </p>
             </div>
           </div>
