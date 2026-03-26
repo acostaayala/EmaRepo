@@ -176,7 +176,7 @@ const expCards = [
     review: "Emmanuel consistently delivered personalized financial solutions and exceptional service at Community Financial Service Center, INC. His dedication to resolving client inquiries and enhancing the customer experience was exemplary.",
     imgPath: "/images/exp3.png",
     logoPath: "/images/logo3.png",
-    title: "React Native Developer",
+    title: "Customer Service Representative",
     date: "March 2019 - May 2020",
     responsibilities: [
       "Delivered personalized financial solutions to clients, tailoring recommendations to their unique needs and goals.",
