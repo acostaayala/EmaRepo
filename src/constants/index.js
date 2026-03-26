@@ -179,7 +179,7 @@ const expCards = [
     title: "Customer Service Representative",
     date: "November 2023 - Present",
     responsibilities: [
-      "Handled high-volume financial transactions including check cashing, bill payments, money orders, and wire transfers with accuracy and efficiency.",
+      "Handled high volume financial transactions including check cashing, bill payments, money orders, and wire transfers with accuracy and efficiency.",
       "Verified customer identification, reviewed checks for authenticity, and ensured compliance with company policies and financial regulations to prevent fraud and minimize risk.",
       "Maintained balanced cash drawers, processed daily transactions, and provided prompt customer support while addressing inquiries related to services, fees, and account setup.",
     ]    
