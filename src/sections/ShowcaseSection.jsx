@@ -53,7 +53,7 @@ const AppShowcase = () => {
             </div>
             <div className="text-content">
               <h2>
-                About Me
+                About Me!
               </h2>
               <p className="text-white-50 md:text-xl">
                 Bilingual customer service and administrative professional with over three years of 
