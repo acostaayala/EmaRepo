@@ -152,7 +152,7 @@ const expCards = [
     imgPath: "/images/exp1.png",
     logoPath: "/images/logo1.png",
     title: "Full Stack Developer",
-    date: "Octuber 2023 - 2025",
+    date: "Octuber 2023 - Present",
     responsibilities: [
       "Set up and maintain Pixel Streaming to deliver Unreal Engine content to web browsers.",
       "Develop the web interface for user interaction with streamed 3D content.",
