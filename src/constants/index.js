@@ -92,54 +92,54 @@ const abilities = [
 
 const techStackImgs = [
   {
-    name: "Strong Customer Service Excellence",
+    name: "Client Focused Service",
     imgPath: "/images/logos/react.png",
   },
   {
-    name: "Python Developer",
+    name: "Transaction Accuracy",
     imgPath: "/images/logos/python.svg",
   },
   {
-    name: "Backend Developer",
+    name: "Bilingual Client Support",
     imgPath: "/images/logos/node.png",
   },
   {
-    name: "Interactive Developer",
+    name: "Regulatory Compliance",
     imgPath: "/images/logos/three.png",
   },
   {
-    name: "Project Manager",
+    name: "Digital Adaptability",
     imgPath: "/images/logos/git.svg",
   },
 ];
 
 const techStackIcons = [
   {
-    name: "Strong Customer Service Excellence",
+    name: "Client Focused Service",
     modelPath: "/models/react_logo-transformed.glb",
     scale: 1,
     rotation: [0, 0, 0],
   },
   {
-    name: "Python Developer",
+    name: "Transaction Accuracy",
     modelPath: "/models/python-transformed.glb",
     scale: 0.8,
     rotation: [0, 0, 0],
   },
   {
-    name: "Backend Developer",
+    name: "Bilingual Client Support",
     modelPath: "/models/node-transformed.glb",
     scale: 5,
     rotation: [0, -Math.PI / 2, 0],
   },
   {
-    name: "Interactive Developer",
+    name: "Regulatory Compliance",
     modelPath: "/models/three.js-transformed.glb",
     scale: 0.05,
     rotation: [0, 0, 0],
   },
   {
-    name: "Project Manager",
+    name: "Digital Adaptability",
     modelPath: "/models/git-svg-transformed.glb",
     scale: 0.05,
     rotation: [0, -Math.PI / 4, 0],
