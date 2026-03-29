@@ -83,7 +83,7 @@ const AppShowcase = () => {
             <div className="project" ref={ycDirectoryRef}>
               <div className="image-wrapper bg-[#FFE7EB]">
                 <img 
-                    src="https://blogger.googleusercontent.com/img/a/AVvXsEgbLk-L6EFrhWXGrhCLj7wpTD5RlVS_Iu3W9nckImyqj9Y-QZQlSucBIv5OPOF2GF2acgrJ35gEes_dLNEvUcTluFh5yoskQaT9dQhAvkbWy-MOJ_raXDftKw2HntogOCDNLo1NUq7x_Ks94DliXZEcQEgL6wx-CGan6VE3JYnM_iwjnW9kITgkjv1xXw0=s16000" 
+                    src="https://blogger.googleusercontent.com/img/a/AVvXsEjbs9IrGZDGKSRTKGWgPW9ndGxTNQ0mNOgeQDhYR7K4w3vWibC5JhAmsNJ3mVAdVRnB9mI-QwJTitN4E7ccJFVyI4B50mv456-jFgIapAfTAe-lLs-eEgrphxpK8cOmvwwfZsS4jm0BEIvAH-VccbMkJZBwz-n0XRZfR8q1FD2-eye80OZ2CQyxIURC3MI=s16000" 
                     alt="continuous learning and adaptability image" />
               </div>
               <h2>Continuous Learning & Adaptability</h2>
