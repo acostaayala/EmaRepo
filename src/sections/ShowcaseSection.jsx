@@ -82,9 +82,11 @@ const AppShowcase = () => {
 
             <div className="project" ref={ycDirectoryRef}>
               <div className="image-wrapper bg-[#FFE7EB]">
-                <img src="/images/project1.png" alt="YC Directory App" />
+                <img 
+                    src="https://blogger.googleusercontent.com/img/a/AVvXsEgbLk-L6EFrhWXGrhCLj7wpTD5RlVS_Iu3W9nckImyqj9Y-QZQlSucBIv5OPOF2GF2acgrJ35gEes_dLNEvUcTluFh5yoskQaT9dQhAvkbWy-MOJ_raXDftKw2HntogOCDNLo1NUq7x_Ks94DliXZEcQEgL6wx-CGan6VE3JYnM_iwjnW9kITgkjv1xXw0=s16000" 
+                    alt="continuous learning and adaptability image" />
               </div>
-              <h2>YC Directory - A Startup Showcase App</h2>
+              <h2>Continuous Learning & Adaptability</h2>
             </div>
           </div>
         </div>
