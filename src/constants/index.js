@@ -92,7 +92,7 @@ const abilities = [
 
 const techStackImgs = [
   {
-    name: "11React Developer",
+    name: "Strong Customer Service Excellence",
     imgPath: "/images/logos/react.png",
   },
   {
@@ -115,7 +115,7 @@ const techStackImgs = [
 
 const techStackIcons = [
   {
-    name: "11React Developer",
+    name: "Strong Customer Service Excellence",
     modelPath: "/models/react_logo-transformed.glb",
     scale: 1,
     rotation: [0, 0, 0],
