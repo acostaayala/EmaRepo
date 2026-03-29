@@ -73,11 +73,11 @@ const AppShowcase = () => {
             <div className="project" ref={libraryRef}>
               <div className="image-wrapper bg-[#FFEFDB]">
                 <img
-                  src="/images/project2.png"
-                  alt="Library Management Platform"
+                  src="https://blogger.googleusercontent.com/img/a/AVvXsEhP35xJQKC2JXtOFSJkK4cLTrC08L-jy8FwLiA8GWloxgVFT2qHLI2ofhKx9LKzWC8buWPQlr8iFynhMoCadROahxjN3SyQSH8ITc_7cTGePLRV4tpw-BgBXdIc3_W8adFwif_5H2iGEtAwJT6FgRB3QU_4Ui6RM6QpY92xrSszUKkJs_b0MyzxcvFeY8w=s16000"
+                  alt="Bilingual customer support."
                 />
               </div>
-              <h2>The Library Management Platform</h2>
+              <h2>Bilingual Customer Support.</h2>
             </div>
 
             <div className="project" ref={ycDirectoryRef}>
