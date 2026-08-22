@@ -230,7 +230,7 @@ const socialImgs = [
   {
     name: "X",
     imgPath: "/images/x-logo-icon.png",
-    link: "https://www.instagram.com/emmanuell.196?igsh=MTB0bHIyYjI0ZGFncg==",
+    link: "https://x.com/acostaayal70185?s=11",
   },
   {
     name: "LinkedIn",
