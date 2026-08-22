@@ -210,7 +210,7 @@ const testimonials = [
   },
 
   {
-    name: "Yassenia Nunez",
+    name: "Oscarly Rivas",
     mentions: "Manage of Community Financial Service Center, INC",
     review:
       "As Emmanuel’s manager at CFSC, I can confidently say he was an exceptional employee. He was always punctual, responsible, and highly efficient in his duties. Emmanuel stood out for his professionalism, willingness to help others, and consistent dedication to providing excellent service. It was a pleasure having him on our team.",
