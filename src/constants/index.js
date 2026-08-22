@@ -228,8 +228,8 @@ const testimonials = [
 
 const socialImgs = [
   {
-    name: "Instagram",
-    imgPath: "/images/insta.png",
+    name: "X",
+    imgPath: "/images/x-logo-icon.png",
     link: "https://www.instagram.com/emmanuell.196?igsh=MTB0bHIyYjI0ZGFncg==",
   },
   {
